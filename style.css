@@ -1,0 +1,35 @@
+table
+  {
+  margin: 0 auto;
+  width: 86%; height:60px;
+  background-color: blanchedalmond;
+  text-align: center;
+  }
+td
+  {
+  text-align:center;
+  width: 25%;
+  }
+ 
+div
+ {
+  text-align: center;
+ }
+ 
+h1
+ {
+   text-align: center;
+   color: rgb(99, 68, 40);
+   font-size: 40px;
+ }
+ 
+ p 
+ {
+  text-align: justify;
+  margin-left: 180px;
+  margin-right: 180px;
+  color: black;
+  font-family: arial;
+  font-size: 20px;
+ }
+ 
